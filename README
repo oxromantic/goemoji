@@ -1,0 +1,13 @@
+EnableEmoji
+
+Based on the code from: http://www.applecow.com/2008/11/29/iphone-dev-program-sdk-emoji-quelli-veri/
+
+Build and run on your device, and flip the switch. Pretty simple! Make sure to go to Settings > General > International > Keyboards > Japanese and turn on Emoji to get access to the keyboard.
+
+Feel free to delete the app from the device after running. If you want to turn it off, rebuild the app and put it back on and it will recheck the state.
+
+Use at your own risk. I have no idea if this is going to break anything, or if Apple will break it in the future.
+
+This code is licensed under the MIT license- see the file LICENSE for more info.
+
+-Mike Glass, Pocket Sevens
